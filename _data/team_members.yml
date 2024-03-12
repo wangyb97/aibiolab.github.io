@@ -1,0 +1,41 @@
+- name: Yanchi Su
+  photo: rock.jpg
+  info: 2020-Now
+  school: Jilin University
+
+- name: Qi Qi
+  photo: rock.jpg
+  info: 2020-Now
+  school: Jilin University
+
+- name: Yi Fan
+  photo: fanyi.jpg
+  info: 2021-Now  
+  school: Jilin University
+  github: https://github.com/fanyi21
+  researchgate: https://www.researchgate.net/profile/Yi-Fan-38 
+
+- name: Zhuohan Yu
+  photo: rock.jpg
+  info: 2022-Now
+  school: Jilin University
+
+- name: Haoran Zhu
+  photo: rock.jpg
+  info: 2023-Now 
+  school: Jilin University
+
+- name: Yuning Yang
+  photo: rock.jpg
+  info: 2020-Now 
+  school: Northeast Normal University
+
+- name: Yunhe Wang
+  photo: rock.jpg
+  info: xxx-Now 
+  school: Hebei University of Technology
+
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info
